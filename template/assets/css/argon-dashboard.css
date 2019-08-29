@@ -2520,8 +2520,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #5e72e4;
-  border-color: #5e72e4;
+  background-color: #DC692B;
+  border-color: #DC692B;
   box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 .btn-assets{
@@ -20694,5 +20694,17 @@ pre>code.highlight {
   width:100%;
   text-align: center;
 }
+.rm-pad{
+  padding: 0 !important;
+}
 
+.fl-l{
+  float: left !important;
+}
+.card-width-50{
+  width:50%;
+}
+.card-border{
+  border-bottom: 0 !important;
+}
 /*# sourceMappingURL=dashboard-free.css.map */
