@@ -20708,7 +20708,9 @@ pre>code.highlight {
   border-bottom: 0 !important;
 }
 .bg-grad{
-  color: #fff;
   background: linear-gradient(87deg, #0F2027, #203A43, #2C5364 100%) !important;
+}
+.txt-color-white{
+  color:rgb(255, 255, 255);
 }
 /*# sourceMappingURL=dashboard-free.css.map */
