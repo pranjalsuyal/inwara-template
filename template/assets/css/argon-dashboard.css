@@ -191,14 +191,14 @@ sup {
 }
 
 a {
-  color: #5e72e4;
+  color: #DC692B;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
-  color: #233dd2;
+  color: #DC692B;
   text-decoration: none;
 }
 
@@ -20724,6 +20724,7 @@ pre>code.highlight {
     left: 0;
     top: 71%;
     background: linear-gradient(87deg, #0F2027, #203A43, #2C5364 100%) !important;
+
 }
 .iw-padding-xxlarge-horizontal{
   padding-left: 32px!important;
@@ -20749,5 +20750,10 @@ pre>code.highlight {
 .custom-align-company-list{
   width:auto;
   text-align: center;
+}
+.long-copy{
+  line-height: 145%;
+  width:70%;
+  margin-left: 15%;
 }
 /*# sourceMappingURL=dashboard-free.css.map */
